@@ -1,7 +1,7 @@
 # PES-VCS Lab Report
 
-**Name:** ASHWIN C H   
-**SRN:** PES1UG24AM900
+**Name:** Ananthakrishna M A   
+**SRN:** PES1UG24AM036
 **Platform:** Ubuntu 24.04
 
 ---
